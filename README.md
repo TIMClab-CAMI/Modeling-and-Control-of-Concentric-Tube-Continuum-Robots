@@ -10,6 +10,8 @@ It provides an efficient numerical implementation of the kineto-static torsional
 A closed-loop control scheme based on our model implementation is then implemented, using the Generalized Damped Least Squares (GDLS) method to account for several concurrent tasks.
 For more details, please refer to the paper available at: https://hal.science/hal-04685717v1.
 
+![Github_figTrajObstacle_simu](https://github.com/user-attachments/assets/8174e7dd-2640-455a-84cc-a94f5881f410)
+
 ## Modeling
 
 The CTCR model is formulated as a multipoint Boundary Value Problem (BVP). The resolution is implemented using a shooting method.
